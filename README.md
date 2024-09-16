@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
-<h3 align="center">A passionate full-stack developer from UK</h3>
+<h3 align="center">A passionate solution developer from UK</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mac0nia&label=Profile%20views&color=0e75b6&style=flat" alt="mac0nia" /> </p>
 
 
- <li align="center">🌱 I’ve graduated from Le Wagon</li>
- <li align="center">🔭 Currently looking for an entry level opportunity</li>
- <li align="center">🔮 I like to write clear and cool codes</li>
- <li align="center">✉️ m.gianlucagalli@gmail.com</li>
+ <h3 align="center">
+As a dedicated Solution Engineer, I specialize in bridging the gap between technology and business needs. With a keen to analyze complex systems and a passion for innovation, I craft tailored solutions that drive efficiency and success. My expertise lies in understanding client requirements and translating them into actionable, scalable solutions that deliver measurable results.</h3>
 
 
 <h3 align="center">Connect with me:</h3>
